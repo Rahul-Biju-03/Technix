@@ -1,7 +1,7 @@
 # Technix
 
 ## Problem Statement
-Our Problem statement is “Running GenAI on Intel AI Laptops and Simple LLM Inference on CPU and fine-tuning of LLM Models using Intel® OpenVINO™.”
+Our Problem statement is **“Running GenAI on Intel AI Laptops and Simple LLM Inference on CPU and fine-tuning of LLM Models using Intel® OpenVINO™.”**
 The challenge lies in efficiently running Generative AI applications and performing LLM inference on Intel AI Laptops and CPUs, while maintaining high performance without specialized hardware. Additionally, fine-tuning LLM models using Intel® OpenVINO™ for real-time applications requires addressing computational efficiency and resource constraints.
 
 ## Objective
