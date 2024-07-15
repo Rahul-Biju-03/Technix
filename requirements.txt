@@ -1,0 +1,9 @@
+torch
+transformers
+openvino
+optimum[openvino]
+nncf
+gradio
+psutil
+numpy
+matplotlib
