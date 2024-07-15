@@ -18,7 +18,7 @@ This project leverages Intel® OpenVINO™ to optimize and execute GenAI and LLM
 
 **1. Clone the repository.**
 ```bash
-git clone https://github.com/bedangSen/VoiceSens.git
+git clone https://github.com/Rahul-Biju-03/Technix.git
 ```
 
 **2. Move into the project directory.**
