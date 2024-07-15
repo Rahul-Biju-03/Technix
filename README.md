@@ -73,11 +73,18 @@ python Chatbot.py
 
 
 ## Chatbot Interface
+Below are two images illustrating the chatbot interface on a mobile device.
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/64ac9625-8189-45e4-8c78-7fcb24724df5" alt="cove" style="width: 45%; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/4040c593-1f60-4a26-b290-920ad7878967" alt="rep" style="width: 45%;">
+</div>
+
 
 
 ## Demo
 
 https://github.com/user-attachments/assets/4c201111-63d4-4fcd-a984-eec6f2ff6dad
+
 
 
 
