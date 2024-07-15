@@ -71,13 +71,11 @@ python CPU_INFERENCE.py
 python Chatbot.py
 ```
 
-
-
 ## Demo
 
-## Key Components
+https://github.com/user-attachments/assets/4c201111-63d4-4fcd-a984-eec6f2ff6dad
 
-## References
+
 
 
 
