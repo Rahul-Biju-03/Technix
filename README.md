@@ -56,19 +56,19 @@ source test_env/bin/activate
 **5. Converting and Quantizing TinyLlama Model with OpenVINO.**
 - This script outlines the steps to convert the TinyLlama model from its original format to ONNX, and subsequently quantize it using OpenVINO for optimized performance.
 ```bash
-python optimised.py
+python Conversion_and_Optimisation.py
 ```
 
 **6. Benchmarking Original and Quantized TinyLlama Model with OpenVINO**
 - This script benchmarks the performance and memory usage of the original TinyLlama model against the quantized version using OpenVINO, including model size calculations and inference time measurements.
 ```bash
-python cpu_inference.py
+python CPU_INFERENCE.py
 ```
 
 **7. TinyLlama Chatbot with Gradio Interface**
 - This script sets up a TinyLlama chatbot with a Gradio interface, including preprocessing and postprocessing functions for improved text handling.
 ```bash
-python interface.py
+python Chatbot.py
 ```
 
 
