@@ -31,17 +31,42 @@ cd Technix
 pip install -r requirements.txt
 ```
 
-**4. **
+**4. (Optional) Running it in a virtual environment.**
+
+- Downloading and installing virtualenv.
+```bash
+pip install virtualenv
+```
+- Create the virtual environment in Python 3.
+```bash
+ virtualenv -p path\to\your\python.exe test_env
+```
+- Activate the test environment.
+
+For Windows:
+```bash
+test_env\Scripts\Activate
+```
+
+For Unix:
+```bash
+source test_env/bin/activate
+```
+
+**5. Converting and Quantizing TinyLlama Model with OpenVINO.**
+- This script outlines the steps to convert the TinyLlama model from its original format to ONNX, and subsequently quantize it using OpenVINO for optimized performance.
 ```bash
 python optimised.py
 ```
 
-**5. **
+**6. Benchmarking Original and Quantized TinyLlama Model with OpenVINO**
+- This script benchmarks the performance and memory usage of the original TinyLlama model against the quantized version using OpenVINO, including model size calculations and inference time measurements.
 ```bash
 python cpu_inference.py
 ```
 
-**6. **
+**7. TinyLlama Chatbot with Gradio Interface**
+- This script sets up a TinyLlama chatbot with a Gradio interface, including preprocessing and postprocessing functions for improved text handling.
 ```bash
 python interface.py
 ```
